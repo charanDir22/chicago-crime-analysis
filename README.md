@@ -38,16 +38,15 @@ The following tools and libraries were used for this project:
 
 ---
 
-## Project Structure
 The project contains the following files:
 
-1. **chicago_crime_analysis.ipynb**  
+1. **[chicago_crime_analysis.ipynb](chicago_crime_analysis.ipynb)**  
    The Jupyter Notebook containing the full analysis, visualizations, and insights.
 
-2. **crime_data.csv**  
-   The dataset used for analysis.
+2. **[crime_data.csv](crime_data.csv)**  
+   The dataset used for analysis.Download it from the [external link](https://pennstateoffice365-my.sharepoint.com/:x:/g/personal/cmk6803_psu_edu/Efr4G41aOV9JqbLezWgPwCEBJKM2lcsr_Z6lONSZhBZo-A?e=7sP2l2))*
 
-3. **chicago_crime_analysis.html**  
+3. **[chicago_crime_analysis.html](chicago_crime_analysis.html)**  
    An HTML version of the notebook for easy viewing.
 
 ---
