@@ -49,6 +49,17 @@ The project contains the following files:
 3. **[chicago_crime_analysis.html](chicago_crime_analysis.html)**  
    An HTML version of the notebook for easy viewing.
 
+ ---  
+
+## Project Files
+You can access the files directly here:
+
+- **[Jupyter Notebook (ipynb)](https://github.com/charanDir22/chicago-crime-analysis/blob/main/chicago_crime_analysis.ipynb)**
+- **[HTML Version of the Notebook](https://github.com/charanDir22/chicago-crime-analysis/blob/main/chicago_crime_analysis.html)**
+
+To download or view the project, click the links above.
+
+
 ---
 
 ## Visualizations and Insights
